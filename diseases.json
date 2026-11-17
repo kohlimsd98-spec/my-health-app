@@ -1,0 +1,222 @@
+[
+  {
+    "category_en": "Brain & Nerves",
+    "category_hi": "Sir, Dimag aur Naso ki Bimaariyan",
+    "disease_en": "Migraine / Tension Headache",
+    "disease_hi": "Migraine / Adha Sir Dard",
+    "severity": "Minor to Moderate",
+    "symptoms": [
+      {
+        "en": "One-Sided Headache",
+        "hi": "Sir ke Ek Hisse mein Dard"
+      },
+      {
+        "en": "Light/Sound Sensitivity",
+        "hi": "Roshni aur Awaaz se Pareshani"
+      },
+      {
+        "en": "Heavy Head",
+        "hi": "Sir Bhaari Lagna"
+      }
+    ],
+    "pathology_tests": [
+      "Clinical Exam",
+      "MRI Brain (if chronic)"
+    ],
+    "care_en": "Rest in a dark room and stay hydrated.",
+    "care_hi": "Andhere kamre mein aaram karein aur paani piyein.",
+    "specialist": "Neurologist"
+  },
+  {
+    "category_en": "Brain & Nerves",
+    "category_hi": "Sir, Dimag aur Naso ki Bimaariyan",
+    "disease_en": "Stroke / Paralysis / Sciatica",
+    "disease_hi": "Brain Stroke / Lakwa / Nas Dabna (Sciatica)",
+    "severity": "Major (Emergency for Stroke)",
+    "symptoms": [
+      {
+        "en": "Sudden Arm/Leg Weakness",
+        "hi": "Haanth ya Pair mein Achanak Kamzori/Sunnpan"
+      },
+      {
+        "en": "Tingling in Hands/Feet",
+        "hi": "Haanth-Pairon mein Jhanjhanahat"
+      },
+      {
+        "en": "Lower Back to Leg Pain",
+        "hi": "Kamar se Pair tak Nas ka Dard (Sciatica)"
+      }
+    ],
+    "pathology_tests": [
+      "MRI Brain/Spine",
+      "Nerve Conduction Study",
+      "Vitamin B12"
+    ],
+    "care_en": "Rush to emergency hospital if sudden weakness occurs.",
+    "care_hi": "Achanak sunnpan ya kamzori ho toh turant hospital jayein.",
+    "specialist": "Neurologist"
+  },
+  {
+    "category_en": "Heart, Veins & Arteries",
+    "category_hi": "Dil, Dhamni aur Naso ki Bimaariyan",
+    "disease_en": "Heart Blockage / Angina / High BP",
+    "disease_hi": "Heart Blockage / Seene mein Dard / High BP",
+    "severity": "Major (Emergency)",
+    "symptoms": [
+      {
+        "en": "Chest Pain or Pressure",
+        "hi": "Seene mein Tez Dard ya Dabav"
+      },
+      {
+        "en": "Left Arm/Jaw Pain",
+        "hi": "Baayein Haanth ya Jabde mein Dard"
+      },
+      {
+        "en": "Shortness of Breath",
+        "hi": "Saans Phoolna"
+      },
+      {
+        "en": "Palpitations",
+        "hi": "Dil ki Dhadkan Tez Hona"
+      }
+    ],
+    "pathology_tests": [
+      "ECG",
+      "Troponin-I",
+      "2D Echo",
+      "Lipid Profile"
+    ],
+    "care_en": "Go to nearest cardiac emergency immediately.",
+    "care_hi": "Turant nazdeeki cardiac emergency hospital jayein.",
+    "specialist": "Cardiologist"
+  },
+  {
+    "category_en": "Heart, Veins & Arteries",
+    "category_hi": "Dil, Dhamni aur Naso ki Bimaariyan",
+    "disease_en": "DVT (Blood Clot) / Varicose Veins / Artery Blockage",
+    "disease_hi": "Naso mein Khoon Jamna (DVT) / Varicose Veins",
+    "severity": "Moderate to Major",
+    "symptoms": [
+      {
+        "en": "One Leg Swelling & Pain",
+        "hi": "Ek Pair ya Pindli mein Sujan aur Dard"
+      },
+      {
+        "en": "Twisted Blue Leg Veins",
+        "hi": "Pairon mein Neeli Ubhariti Nasein"
+      },
+      {
+        "en": "Leg Pain While Walking",
+        "hi": "Chalne par Pairon mein Tez Dard"
+      }
+    ],
+    "pathology_tests": [
+      "Venous & Arterial Doppler Scan",
+      "D-Dimer Test"
+    ],
+    "care_en": "Do not massage swollen leg. Get a Doppler scan urgently.",
+    "care_hi": "Sujan wale pair ki malish na karein, turant Doppler test karwayein.",
+    "specialist": "Vascular Surgeon"
+  },
+  {
+    "category_en": "Hands, Legs, Bones & Muscles",
+    "category_hi": "Haanth, Pair, Haddiyan aur Maanspeshiyan",
+    "disease_en": "Muscle Stiffness / Cervical / Arthritis / Uric Acid",
+    "disease_hi": "Muscle Stiffness / Cervical / Gathiya / Uric Acid",
+    "severity": "Minor to Major",
+    "symptoms": [
+      {
+        "en": "Muscle Stiffness",
+        "hi": "Maanspeshiyon mein Jakdan (Muscle Stiffness)"
+      },
+      {
+        "en": "Neck & Shoulder Stiffness",
+        "hi": "Gardan aur Kandhon mein Jakdan"
+      },
+      {
+        "en": "Joint Swelling & Pain",
+        "hi": "Jodon mein Sujan aur Dard"
+      },
+      {
+        "en": "Palm/Finger Numbness",
+        "hi": "Hatheli aur Ungliyon mein Sunnpan"
+      }
+    ],
+    "pathology_tests": [
+      "Vitamin D3 & B12",
+      "Serum Uric Acid",
+      "RA Factor",
+      "X-Ray"
+    ],
+    "care_en": "Apply warm compress and get Vitamin D, B12, and Uric Acid tested.",
+    "care_hi": "Garm sikai karein aur Vitamin D, B12 aur Uric Acid test karwayein.",
+    "specialist": "Orthopedic / Rheumatologist"
+  },
+  {
+    "category_en": "Stomach, Liver, Kidney & Lungs",
+    "category_hi": "Pet, Liver, Kidney aur Phephde (Internal Organs)",
+    "disease_en": "Gastritis / Fatty Liver / Jaundice / Gallstone",
+    "disease_hi": "Gas-Acidity / Fatty Liver / Piliya / Pathri",
+    "severity": "Minor to Major",
+    "symptoms": [
+      {
+        "en": "Upper Stomach Burning/Pain",
+        "hi": "Pet ke Oopri Hisse mein Jalan ya Dard"
+      },
+      {
+        "en": "Yellow Eyes & Skin",
+        "hi": "Aankhon aur Twacha ka Peela Padna"
+      },
+      {
+        "en": "Dark Yellow Urine",
+        "hi": "Gaadha Peela Peshab"
+      },
+      {
+        "en": "Bloating & Nausea",
+        "hi": "Pet Phoolna aur Jee Machlana"
+      }
+    ],
+    "pathology_tests": [
+      "LFT (Liver Function Test)",
+      "Ultrasound Abdomen",
+      "Amylase/Lipase"
+    ],
+    "care_en": "Eat oil-free boiled food and get LFT and Ultrasound done.",
+    "care_hi": "Bina tel-masale ka khana khayein aur LFT/Ultrasound karwayein.",
+    "specialist": "Gastroenterologist"
+  },
+  {
+    "category_en": "Stomach, Liver, Kidney & Lungs",
+    "category_hi": "Pet, Liver, Kidney aur Phephde (Internal Organs)",
+    "disease_en": "Kidney Stone / UTI / Pneumonia / Asthma / TB",
+    "disease_hi": "Kidney Pathri / Urine Infection / Pneumonia / Dama / TB",
+    "severity": "Moderate to Major",
+    "symptoms": [
+      {
+        "en": "Side/Lower Back Severe Pain",
+        "hi": "Kamar ke Side mein Tez Dard (Kidney Stone)"
+      },
+      {
+        "en": "Burning Urination",
+        "hi": "Peshab mein Jalan"
+      },
+      {
+        "en": "Persistent Cough (>2 Weeks)",
+        "hi": "2 Hafte se Zyada Purani Khansi"
+      },
+      {
+        "en": "Ankle/Eye Swelling",
+        "hi": "Aankhon aur Pairon mein Sujan"
+      }
+    ],
+    "pathology_tests": [
+      "KFT (Creatinine)",
+      "Urine Routine",
+      "Ultrasound KUB",
+      "Chest X-Ray"
+    ],
+    "care_en": "Consult specialist for kidney and lung imaging tests.",
+    "care_hi": "Kidney aur lungs ki jaanch ke liye turant doctor se milein.",
+    "specialist": "Nephrologist / Pulmonologist"
+  }
+]
